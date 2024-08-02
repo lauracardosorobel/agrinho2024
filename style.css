@@ -3,7 +3,7 @@
 body 
 {
     text-align: justify;
-    background: linear-gradient(to bottom, #b9ecb9, #aefca4, #47eb62);
+    background: linear-gradient(to bottom, #b9ecb9, #78e66a, #04f82c);
     color: #080808;
     font-size: 12pt;
     font-family: Arial;
@@ -23,7 +23,7 @@ p#principal
 
 a{
     text-decoration: none;
-    color: #69668ffd;
+    color: #7d93a8fd;
 }
 
 .container {
