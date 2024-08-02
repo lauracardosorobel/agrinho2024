@@ -3,7 +3,7 @@
 body 
 {
     text-align: justify;
-    background: linear-gradient(to bottom, #b9ecb9, #78e66a, #04f82c);
+    background: linear-gradient(to bottom, #b9ecb9, #6ebe63, #24be3e);
     color: #080808;
     font-size: 12pt;
     font-family: Arial;
@@ -13,17 +13,29 @@ body
 
 h1
 {
-    color: #080808;
+    font-family: roboto;
+    color: #000000;
 }
+
+h2
+{
+    font-family: roboto;
+}
+
+h3
+{
+    font-family: roboto;
+}
+
 
 p#principal
 {
- color: rgb(175, 238, 199);
+ color: rgb(33, 219, 104);
 }
 
 a{
     text-decoration: none;
-    color: #7d93a8fd;
+    color: #5b8fc0fd;
 }
 
 .container {
